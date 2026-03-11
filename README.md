@@ -6,7 +6,7 @@ This serverless application deploys an AWS lambda function that replays each mes
 
 ## App Architecture
 
-![Architecture diagram](SQS_replay.png)
+![Architecture diagram](SQS_replay.svg)
 
 ## Installation Instructions
 
